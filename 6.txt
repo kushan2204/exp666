@@ -1,2 +1,3 @@
 git lab 
 conduct in pg lab
+on thursday
